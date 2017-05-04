@@ -1,0 +1,5 @@
+C:\Work\Codeabbey\1\Codeabbey\Task_16\bin\Debug\Task_16.exe.config
+C:\Work\Codeabbey\1\Codeabbey\Task_16\bin\Debug\Task_16.exe
+C:\Work\Codeabbey\1\Codeabbey\Task_16\bin\Debug\Task_16.pdb
+C:\Work\Codeabbey\1\Codeabbey\Task_16\obj\Debug\Task_16.exe
+C:\Work\Codeabbey\1\Codeabbey\Task_16\obj\Debug\Task_16.pdb

@@ -1,0 +1,6 @@
+C:\Work\Codeabbey\1\Codeabbey\Task_11\bin\Debug\Task_11.exe.config
+C:\Work\Codeabbey\1\Codeabbey\Task_11\bin\Debug\Task_11.exe
+C:\Work\Codeabbey\1\Codeabbey\Task_11\bin\Debug\Task_11.pdb
+C:\Work\Codeabbey\1\Codeabbey\Task_11\obj\Debug\Task_11.csprojResolveAssemblyReference.cache
+C:\Work\Codeabbey\1\Codeabbey\Task_11\obj\Debug\Task_11.exe
+C:\Work\Codeabbey\1\Codeabbey\Task_11\obj\Debug\Task_11.pdb
