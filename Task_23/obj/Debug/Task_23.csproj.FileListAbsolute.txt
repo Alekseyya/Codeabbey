@@ -3,3 +3,9 @@ C:\Work\Codeabbey\Codeabbey\Task_23\bin\Debug\Task_23.exe
 C:\Work\Codeabbey\Codeabbey\Task_23\bin\Debug\Task_23.pdb
 C:\Work\Codeabbey\Codeabbey\Task_23\obj\Debug\Task_23.exe
 C:\Work\Codeabbey\Codeabbey\Task_23\obj\Debug\Task_23.pdb
+C:\Work\Codeabbey\Task_23\bin\Debug\Task_23.exe.config
+C:\Work\Codeabbey\Task_23\obj\Debug\Task_23.exe
+C:\Work\Codeabbey\Task_23\obj\Debug\Task_23.pdb
+C:\Work\Codeabbey\Task_23\bin\Debug\Task_23.exe
+C:\Work\Codeabbey\Task_23\bin\Debug\Task_23.pdb
+C:\Work\Codeabbey\Task_23\obj\Debug\Task_23.csprojResolveAssemblyReference.cache
