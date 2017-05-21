@@ -14,6 +14,7 @@ namespace Task_104
         static void Main(string[] args)
         {
             
+            
             ReadFile();
             Gerone();
             Print();
